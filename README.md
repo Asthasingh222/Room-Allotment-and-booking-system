@@ -7,9 +7,10 @@ A Bare Bone System has to be made which is capable of booking a room and also ab
 Required Features needed in the system:
 Scheduling capabilities
 * 1)Book a room
-*2) Set the host
-*3)Set the start time
-*4)Set the end time
-*5)Set the chair booking capability
-*6)Define the room number
+* 2) Set the host
+* 3)Set the start time
+* 4)Set the end time
+* 5)Set the chair booking capability
+* 6)Define the room number
+
 ![image](https://github.com/Asthasingh222/Room-Allotment-and-booking-system/assets/77485251/32c04337-fd5c-4cf1-bffc-baa50cbc4699)
